@@ -1,4 +1,5 @@
-# BingHomepage.CSharp
+# BingHomepage.CSharp [![Build status](https://ci.appveyor.com/api/projects/status/0dagkhknj0mxtpny/branch/master?retina=true)](https://ci.appveyor.com/project/muhammadmuzzammil1998/binghomepage-csharp/branch/master)
+
 
 BingHomepage.CSharp library is powered by BingHomepageAPI which provides Bing's current homepage image details which include URL for image, Copyright information, and a Copyright link.
 
